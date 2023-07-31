@@ -2,17 +2,23 @@
  
 Dieselpunk Desktop RAM Storage widget, written in Jscript for the XWidget Engine. Created for XP, Vista, Win7, 8, 10+ as well as the Apple Mac/Linux with Wine.
 
+![panzer-ramphoto-1440x900](https://github.com/yereverluvinunclebert/Panzer-tank-memory-gauge-Xwidget/assets/2788342/e43eae96-661c-40cf-9707-9b6628a5c92a)
+
 This Panzer widget is an attractive dieselpunk Yahoo widget for your desktop. 
 It is a simple RAM usage gauge. The RAM gauge displays memory usage for your 
 desktop/laptop. Functional and gorgeous at the same time. This Widget is a 
 moveable widget that you can move anywhere around the 
 desktop as you require.
 
+![panzer-ram-icon](https://github.com/yereverluvinunclebert/Panzer-tank-memory-gauge-Xwidget/assets/2788342/49300c1f-c0c5-4160-89e1-a476f9f9e3b5)
+
 I created for the World of Tanks and War Thunder communities. The graphics are my own, I took original inspiration from a clock face by Italo Fortana.
 
 To find out how the widget operates, simply right click and select Help and a full explanation of all the buttons, windows is shown. The top left window is the current power in digital form. Hovering over any control should supply a pop-up explaining each function.
 
 The widget can be resized - Hover the cursor over the widget. Press the CTRL key and use your mousewheel up or down. The widget will resize dynamically.
+
+![dock](https://github.com/yereverluvinunclebert/Panzer-tank-memory-gauge-Xwidget/assets/2788342/50f67250-4a40-403f-bd79-255f5fbfeb17)
 
 Right clicking will bring up a menu of options. Double-clicking on the widget will cause a personalised Windows application to fire up. The first time you run it there will be no assigned function and so it will state as such and then pop up the preferences so that you can enter the command of your choice. The widget takes command line-style commands for windows.
 
