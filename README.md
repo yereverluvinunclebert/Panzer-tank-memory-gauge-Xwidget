@@ -28,6 +28,8 @@ The graphic interface and operation of the two types of widgets are the same. Th
 only differences are the configuration preference utility (this has a cut-down 
 version), the language is Micrososoft's JScript (rather than javascript) and it is the Xwidget engine that is utilised to put the widget on your screen.
 
+![cpugauge-xwidgets-prefs](https://github.com/yereverluvinunclebert/Panzer-tank-memory-gauge-Xwidget/assets/2788342/148e9ce2-0ad7-40af-a226-70155ad5b4e1)
+
 This widget is uploaded here for historical archival reasons. I suggest that you 
 use the Yahoo widget version as it is a superior engine for developing widgets. 
 I will provide bugfixes for the Yahoo widget version but NOT for Xwidgets.
@@ -66,7 +68,7 @@ Running the widget using a Jscript engine frees Javascript from running only
 within the captivity of a browser o, you will now be able to run these widgets on 
 your Windows desktop as long as you have the correct widget engine installed.
 
-![Icon](https://github.com/yereverluvinunclebert/Panzer-Tank-Drive-Gauge-Xwidget/assets/2788342/a1bf26a0-b039-4723-a0fd-8dc485a82f46)
+![panzer-clock-help](https://github.com/yereverluvinunclebert/Panzer-tank-memory-gauge-Xwidget/assets/2788342/fbd1393c-c42b-4614-9584-ee593b7a3197)
 
 Instructions for running XWidgets on Windows
 =================================================
@@ -76,7 +78,8 @@ Instructions for running XWidgets on Windows
 3. Unzip it
 4. Double-click on the resulting .XUL file and it will install and run
 
-![about](https://github.com/yereverluvinunclebert/Panzer-Tank-Drive-Gauge-Xwidget/assets/2788342/804ae2d5-30f0-44d6-ba17-7245bb267da4)
+![about](https://github.com/yereverluvinunclebert/Panzer-tank-memory-gauge-Xwidget/assets/2788342/fcee1341-c092-4fbd-82f9-43f3ae8e5d0c)
+
 
 LICENCE AGREEMENTS:
 
