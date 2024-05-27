@@ -2,6 +2,8 @@
  
 Dieselpunk Desktop RAM Storage widget, written in Jscript for the XWidget Engine. Created for XP, Vista, Win7, 8, 10+ as well as the Apple Mac/Linux with Wine.
 
+This widget is now deprecated and is retained for historical reasons only, it still works but time moves ever onward - please use the VB6 version instead that you will find here: https://github.com/yereverluvinunclebert/Panzer-RAM-Gauge-VB6
+
 ![panzer-ramphoto-1440x900](https://github.com/yereverluvinunclebert/Panzer-tank-memory-gauge-Xwidget/assets/2788342/e43eae96-661c-40cf-9707-9b6628a5c92a)
 
 This Panzer widget is an attractive dieselpunk Yahoo widget for your desktop. 
